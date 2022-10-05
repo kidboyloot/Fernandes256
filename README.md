@@ -6,4 +6,4 @@
 - 💬 Ask me about Stuff
 - ⚡ Fun fact: 18 years
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Fernandes256)](https://github.com/anuraghazra/github-readme-stats)
+(https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
