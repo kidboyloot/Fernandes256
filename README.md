@@ -6,4 +6,4 @@
 - 💬 Ask me about Stuff
 - ⚡ Fun fact: 18 years
 
-(https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+https://github-readme-stats.vercel.app/api?username=fernandes256&show_icons=true&theme=radical
